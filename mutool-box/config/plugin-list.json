@@ -421,7 +421,7 @@
     "jarName": "x-DecompilerWxApkgTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "https://gitee.com/liershuang/static-resources/raw/master/mutool-box/plugins/assistTools/DecompilerWxApkgTool-0.0.1.jar"
+    "downloadUrl": "https://gitee.com/liershuang/maven/raw/master/mutool-box/plugins/assistTools/DecompilerWxApkgTool-0.0.1.jar"
   },
   {
     "name": "成语字典工具",
@@ -429,7 +429,7 @@
     "jarName": "x-IdiomDataTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "https://gitee.com/liershuang/static-resources/raw/master/mutool-box/plugins/assistTools/IdiomDataTool-0.0.1.jar"
+    "downloadUrl": "https://gitee.com/liershuang/maven/raw/master/mutool-box/plugins/assistTools/IdiomDataTool-0.0.1.jar"
   },
   {
     "name": "语音转换工具",
@@ -437,7 +437,7 @@
     "jarName": "x-TextToSpeechTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "https://gitee.com/liershuang/static-resources/raw/master/mutool-box/plugins/assistTools/TextToSpeechTool-0.0.1.jar"
+    "downloadUrl": "https://gitee.com/liershuang/maven/raw/master/mutool-box/plugins/assistTools/TextToSpeechTool-0.0.1.jar"
   },
   {
     "name": "微信跳一跳助手",
@@ -445,7 +445,7 @@
     "jarName": "x-WechatJumpGameTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "https://gitee.com/liershuang/static-resources/raw/master/mutool-box/plugins/assistTools/WechatJumpGameTool-0.0.1.jar"
+    "downloadUrl": "https://gitee.com/liershuang/maven/raw/master/mutool-box/plugins/assistTools/WechatJumpGameTool-0.0.1.jar"
   },
   {
     "name": "javaFxFxml转换代码",
