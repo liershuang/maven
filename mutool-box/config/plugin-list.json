@@ -418,7 +418,7 @@
   {
     "name": "反编译微信小程序包工具",
     "synopsis": "微信小程序反编译工具(一键反编译微信小程序包)",
-    "jarName": "x-DecompilerWxApkgTool",
+    "jarName": "DecompilerWxApkgTool",
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/DecompilerWxApkgTool-0.0.1.jar"
@@ -426,7 +426,7 @@
   {
     "name": "成语字典工具",
     "synopsis": "",
-    "jarName": "x-IdiomDataTool",
+    "jarName": "IdiomDataTool",
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/IdiomDataTool-0.0.1.jar"
@@ -434,7 +434,7 @@
   {
     "name": "语音转换工具",
     "synopsis": "",
-    "jarName": "x-TextToSpeechTool",
+    "jarName": "TextToSpeechTool",
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/TextToSpeechTool-0.0.1.jar"
@@ -442,7 +442,7 @@
   {
     "name": "微信跳一跳助手",
     "synopsis": "",
-    "jarName": "x-WechatJumpGameTool",
+    "jarName": "WechatJumpGameTool",
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/WechatJumpGameTool-0.0.1.jar"
