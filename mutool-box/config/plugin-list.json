@@ -478,5 +478,38 @@
     "version": "0.0.1",
     "versionNumber": 1,
     "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/netWorkTools/WebJsonEditor-0.0.1.jar"
+  },
+  {
+    "name": "DebugEpms",
+    "synopsis": "",
+    "jarName": "DebugEpms",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/epmsTools/DebugEpms-0.0.1.jar"
+  },
+  {
+    "name": "DxpMsgTool",
+    "synopsis": "",
+    "jarName": "DxpMsgTool",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/epmsTools/DxpMsgTool-0.0.1.jar"
+  },
+  {
+    "name": "GeneratingCode",
+    "synopsis": "",
+    "jarName": "GeneratingCode",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/epmsTools/GeneratingCode-0.0.1.jar"
+  },
+  {
+    "name": "MessageViewer",
+    "synopsis": "",
+    "jarName": "MessageViewer",
+    "version": "0.0.1",
+    "versionNumber": 1,
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/epmsTools/MessageViewer-0.0.1.jar"
   }
+
 ]
