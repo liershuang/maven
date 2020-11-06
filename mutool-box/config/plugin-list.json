@@ -5,7 +5,7 @@
     "jarName": "ActiveMqTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/ActiveMqTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/ActiveMqTool-0.0.1.jar"
   },
   {
     "name": "Cmd调试工具",
@@ -13,7 +13,7 @@
     "jarName": "CmdTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/CmdTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/CmdTool-0.0.1.jar"
   },
   {
     "name": "Ftp客户端调试工具",
@@ -21,7 +21,7 @@
     "jarName": "FtpClientTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/FtpClientTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/FtpClientTool-0.0.1.jar"
   },
   {
     "name": "Ftp服务器",
@@ -29,7 +29,7 @@
     "jarName": "FtpServer",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/FtpServer-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/FtpServer-0.0.1.jar"
   },
   {
     "name": "Http接口测试工具",
@@ -37,7 +37,7 @@
     "jarName": "HttpTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/HttpTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/HttpTool-0.0.1.jar"
   },
   {
     "name": "Kafka调试工具",
@@ -45,7 +45,7 @@
     "jarName": "KafkaTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/KafkaTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/KafkaTool-0.0.1.jar"
   },
   {
     "name": "Redis连接工具",
@@ -53,7 +53,7 @@
     "jarName": "RedisTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/RedisTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/RedisTool-0.0.1.jar"
   },
   {
     "name": "脚本引擎调试工具",
@@ -61,7 +61,7 @@
     "jarName": "ScriptEngineTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/ScriptEngineTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/ScriptEngineTool-0.0.1.jar"
   },
   {
     "name": "Socket调试工具",
@@ -69,7 +69,7 @@
     "jarName": "SocketTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/SocketTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/SocketTool-0.0.1.jar"
   },
   {
     "name": "切换Hosts工具",
@@ -77,7 +77,7 @@
     "jarName": "SwitchHostsTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/SwitchHostsTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/SwitchHostsTool-0.0.1.jar"
   },
   {
     "name": "Zookeeper工具",
@@ -85,7 +85,7 @@
     "jarName": "ZookeeperTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/ZookeeperTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/debugTools/ZookeeperTool-0.0.1.jar"
   },
   {
     "name": "传输工具",
@@ -93,7 +93,7 @@
     "jarName": "TransferTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/developTools/TransferTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/developTools/TransferTool-0.0.1.jar"
   },
   {
     "name": "图片转码工具",
@@ -101,7 +101,7 @@
     "jarName": "AsciiPicTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/developTools/AsciiPicTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/developTools/AsciiPicTool-0.0.1.jar"
   },
   {
     "name": "剪贴板历史工具",
@@ -109,7 +109,7 @@
     "jarName": "ClipboardHistoryTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/developTools/ClipboardHistoryTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/developTools/ClipboardHistoryTool-0.0.1.jar"
   },
   {
     "name": "文件列表生成器",
@@ -117,7 +117,7 @@
     "jarName": "DirectoryTreeTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/developTools/DirectoryTreeTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/developTools/DirectoryTreeTool-0.0.1.jar"
   },
   {
     "name": "Json转换工具",
@@ -125,7 +125,7 @@
     "jarName": "JsonConvertTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/developTools/JsonConvertTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/developTools/JsonConvertTool-0.0.1.jar"
   },
   {
     "name": "文件夹监控工具",
@@ -133,7 +133,7 @@
     "jarName": "PathWatchTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/developTools/PathWatchTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/developTools/PathWatchTool-0.0.1.jar"
   },
   {
     "name": "端口扫描工具",
@@ -141,7 +141,7 @@
     "jarName": "ScanPortTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/developTools/ScanPortTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/developTools/ScanPortTool-0.0.1.jar"
   },
   {
     "name": "猜数字游戏",
@@ -149,7 +149,7 @@
     "jarName": "BullsAndCowsGame",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/games/BullsAndCowsGame-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/games/BullsAndCowsGame-0.0.1.jar"
   },
   {
     "name": "数独",
@@ -157,7 +157,7 @@
     "jarName": "Sudoku",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/games/Sudoku-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/games/Sudoku-0.0.1.jar"
   },
   {
     "name": "2048",
@@ -165,7 +165,7 @@
     "jarName": "X2048",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/games/X2048-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/games/X2048-0.0.1.jar"
   },
   {
     "name": "编码转换",
@@ -173,7 +173,7 @@
     "jarName": "CharacterConverter",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/CharacterConverter-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/CharacterConverter-0.0.1.jar"
   },
   {
     "name": "Cron表达式生成器",
@@ -181,7 +181,7 @@
     "jarName": "CronExpBuilder",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/CronExpBuilder-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/CronExpBuilder-0.0.1.jar"
   },
   {
     "name": "邮件发送工具",
@@ -189,7 +189,7 @@
     "jarName": "EmailTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/EmailTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/EmailTool-0.0.1.jar"
   },
   {
     "name": "加密解密",
@@ -197,7 +197,7 @@
     "jarName": "EncryptAndDecrypt",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/EncryptAndDecrypt-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/EncryptAndDecrypt-0.0.1.jar"
   },
   {
     "name": "Excel拆分工具",
@@ -205,7 +205,7 @@
     "jarName": "ExcelSplitTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ExcelSplitTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ExcelSplitTool-0.0.1.jar"
   },
   {
     "name": "文件解压缩工具",
@@ -213,7 +213,7 @@
     "jarName": "FileCompressTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileCompressTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileCompressTool-0.0.1.jar"
   },
   {
     "name": "文件复制",
@@ -221,7 +221,7 @@
     "jarName": "FileCopy",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileCopy-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileCopy-0.0.1.jar"
   },
   {
     "name": "文件合并工具",
@@ -229,7 +229,7 @@
     "jarName": "FileMergeTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileMergeTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileMergeTool-0.0.1.jar"
   },
   {
     "name": "文件重命名工具",
@@ -237,7 +237,7 @@
     "jarName": "FileRenameTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileRenameTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileRenameTool-0.0.1.jar"
   },
   {
     "name": "文件搜索工具",
@@ -245,7 +245,7 @@
     "jarName": "FileSearchTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileSearchTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/FileSearchTool-0.0.1.jar"
   },
   {
     "name": "图标生成工具",
@@ -253,7 +253,7 @@
     "jarName": "IconTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/IconTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/IconTool-0.0.1.jar"
   },
   {
     "name": "图片解析工具",
@@ -261,7 +261,7 @@
     "jarName": "ImageAnalysisTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ImageAnalysisTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ImageAnalysisTool-0.0.1.jar"
   },
   {
     "name": "图片压缩工具",
@@ -269,7 +269,7 @@
     "jarName": "ImageTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ImageTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ImageTool-0.0.1.jar"
   },
   {
     "name": "路径转换",
@@ -277,7 +277,7 @@
     "jarName": "LinuxPathToWindowsPath",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/LinuxPathToWindowsPath-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/LinuxPathToWindowsPath-0.0.1.jar"
   },
   {
     "name": "Mp3转换工具",
@@ -285,7 +285,7 @@
     "jarName": "Mp3ConvertTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/Mp3ConvertTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/Mp3ConvertTool-0.0.1.jar"
   },
   {
     "name": "Pdf转换工具",
@@ -293,7 +293,7 @@
     "jarName": "PdfConvertTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/PdfConvertTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/PdfConvertTool-0.0.1.jar"
   },
   {
     "name": "二维码生成工具",
@@ -301,7 +301,7 @@
     "jarName": "QRCodeBuilder",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/QRCodeBuilder-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/QRCodeBuilder-0.0.1.jar"
   },
   {
     "name": "印章生成工具",
@@ -309,7 +309,7 @@
     "jarName": "SealBuilderTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/SealBuilderTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/SealBuilderTool-0.0.1.jar"
   },
   {
     "name": "久坐提醒工具",
@@ -317,7 +317,7 @@
     "jarName": "SedentaryReminderTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/SedentaryReminderTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/SedentaryReminderTool-0.0.1.jar"
   },
   {
     "name": "短信群发工具",
@@ -325,7 +325,7 @@
     "jarName": "SmsTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/SmsTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/SmsTool-0.0.1.jar"
   },
   {
     "name": "Time转换",
@@ -333,7 +333,7 @@
     "jarName": "TimeTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/TimeTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/TimeTool-0.0.1.jar"
   },
   {
     "name": "字符串转换",
@@ -341,7 +341,7 @@
     "jarName": "ZHConverter",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ZHConverter-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/littleTools/ZHConverter-0.0.1.jar"
   },
   {
     "name": "网址缩短",
@@ -349,7 +349,7 @@
     "jarName": "ShortURL",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/webTools/ShortURL-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/webTools/ShortURL-0.0.1.jar"
   },
   {
     "name": "编码转换工具",
@@ -357,7 +357,7 @@
     "jarName": "CharsetDetectTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/CharsetDetectTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/CharsetDetectTool-0.0.1.jar"
   },
   {
     "name": "颜色代码转换工具",
@@ -365,7 +365,7 @@
     "jarName": "ColorCodeConverterTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/ColorCodeConverterTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/ColorCodeConverterTool-0.0.1.jar"
   },
   {
     "name": "转义字符",
@@ -373,7 +373,7 @@
     "jarName": "EscapeCharacter",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/EscapeCharacter-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/EscapeCharacter-0.0.1.jar"
   },
   {
     "name": "文件编码转换工具",
@@ -381,7 +381,7 @@
     "jarName": "FileUnicodeTransformationTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/FileUnicodeTransformationTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/FileUnicodeTransformationTool-0.0.1.jar"
   },
   {
     "name": "身份证生成工具",
@@ -389,7 +389,7 @@
     "jarName": "IdCardGenerator",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/IdCardGenerator-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/IdCardGenerator-0.0.1.jar"
   },
   {
     "name": "随机数生成工具",
@@ -397,7 +397,7 @@
     "jarName": "RandomGeneratorTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/RandomGeneratorTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/RandomGeneratorTool-0.0.1.jar"
   },
   {
     "name": "正则表达式生成工具",
@@ -405,7 +405,7 @@
     "jarName": "RegexTester",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/RegexTester-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/RegexTester-0.0.1.jar"
   },
   {
     "name": "网页源码下载工具",
@@ -413,7 +413,7 @@
     "jarName": "WebSourcesTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/WebSourcesTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/codeTools/WebSourcesTool-0.0.1.jar"
   },
   {
     "name": "反编译微信小程序包工具",
@@ -421,7 +421,7 @@
     "jarName": "DecompilerWxApkgTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/DecompilerWxApkgTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/DecompilerWxApkgTool-0.0.1.jar"
   },
   {
     "name": "成语字典工具",
@@ -429,7 +429,7 @@
     "jarName": "IdiomDataTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/IdiomDataTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/IdiomDataTool-0.0.1.jar"
   },
   {
     "name": "语音转换工具",
@@ -437,7 +437,7 @@
     "jarName": "TextToSpeechTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/TextToSpeechTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/TextToSpeechTool-0.0.1.jar"
   },
   {
     "name": "微信跳一跳助手",
@@ -445,7 +445,7 @@
     "jarName": "WechatJumpGameTool",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/WechatJumpGameTool-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/assistTools/WechatJumpGameTool-0.0.1.jar"
   },
   {
     "name": "javaFxFxml转换代码",
@@ -453,7 +453,7 @@
     "jarName": "JavaFxXmlToObjectCode",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/javaFxTools/JavaFxXmlToObjectCode-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/javaFxTools/JavaFxXmlToObjectCode-0.0.1.jar"
   },
   {
     "name": "显示系统信息",
@@ -461,7 +461,7 @@
     "jarName": "ShowSystemInfo",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/javaFxTools/ShowSystemInfo-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/javaFxTools/ShowSystemInfo-0.0.1.jar"
   },
   {
     "name": "Cron表达式生成器Html版",
@@ -469,7 +469,7 @@
     "jarName": "WebCronExpBuilder",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/netWorkTools/WebCronExpBuilder-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/netWorkTools/WebCronExpBuilder-0.0.1.jar"
   },
   {
     "name": "json编辑工具Html版",
@@ -477,6 +477,6 @@
     "jarName": "WebJsonEditor",
     "version": "0.0.1",
     "versionNumber": 1,
-    "downloadUrl": "http://liershuang.gitee.io/maven/mutool-box/plugins/netWorkTools/WebJsonEditor-0.0.1.jar"
+    "downloadUrl": "https://liershuang.gitee.io/maven/mutool-box/plugins/netWorkTools/WebJsonEditor-0.0.1.jar"
   }
 ]
